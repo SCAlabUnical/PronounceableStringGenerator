@@ -11,4 +11,4 @@ System.out.println(mg.generate(ran, 8));
 System.out.println(mg.generate(ran, 8));
 ```
 
-The project starts from the java classes of the "GPW - Generate pronounceable passwords" project (see www.multicians.org/thvv/gpw.html @author Tom Van Vleck).
+This project starts from the java classes of the "GPW - Generate pronounceable passwords" project (see www.multicians.org/thvv/gpw.html @author Tom Van Vleck).
